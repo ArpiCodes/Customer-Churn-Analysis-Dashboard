@@ -161,6 +161,7 @@ Classifies customers into risk categories based on their churn probability.
 
 ## Dashboard Pages & Visualizations
 ### 1. Executive Overview
+![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/9a714bb889bd1a4af8749207f86aa665580b59fb/Screenshot%202025-02-14%20211504.png)
 **Key Insights:**
 - **Churn Rate (80%)**: Displays the percentage of customers lost.
 - **Customer Lifetime Value (CLV - 59.85)**: Represents the average revenue a customer is expected to generate.
