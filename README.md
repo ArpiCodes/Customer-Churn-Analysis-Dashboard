@@ -195,7 +195,7 @@ Classifies customers into risk categories based on their churn probability.
   - Allows dynamic filtering based on **customer segments**.
 
 ### 3. Customer Behavior Analysis
-![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/b53ca938ce675184be3166cdb0912c374860e864/Screenshot%202025-02-14%20211609.png)
+![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/1b68dbd07da1f8d4b4dc66dfe31f00feaf5cc897/Customer%20Behaviour%20Analysis.png)
 **Key Metrics & Visualizations:**
 - **Support Tickets vs. Feedback Scatter Plot**:
   - Green dots: **Retained customers**.
