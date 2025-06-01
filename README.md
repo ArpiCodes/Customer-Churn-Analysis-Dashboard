@@ -182,7 +182,7 @@ Classifies customers into risk categories based on their churn probability.
   - **Total customers: 1000**.
 
 ### 2. Customer Insights
-![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/b53ca938ce675184be3166cdb0912c374860e864/Screenshot%202025-02-14%20211535.png)
+![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/18e4b3938787dbbaca887135531812700373e8d8/Customer%20Insights.png)
 **Visualizations:**
 - **Customer Data Table**:
   - Contains **customer IDs, spend, feedback scores, subscription type**.
