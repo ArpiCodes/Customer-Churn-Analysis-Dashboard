@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard
 
-![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/9a714bb889bd1a4af8749207f86aa665580b59fb/Screenshot%202025-02-14%20211504.png)
+![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/969e9ec5c774627c57f6efcfed0199e46d13accd/Executive%20Overview.png)
 
 ## Overview
 This repository contains a comprehensive **Power BI Dashboard** designed to analyze customer churn, identify at-risk customers, and provide actionable insights for retention strategies. The dashboard integrates advanced analytics, predictive modeling, and interactive visualizations to help businesses optimize customer engagement.
