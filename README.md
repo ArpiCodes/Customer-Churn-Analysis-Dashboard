@@ -210,7 +210,7 @@ Classifies customers into risk categories based on their churn probability.
   - Lowest engagement: **Under 18** category.
 
 ### 4. Predictive Insights
-![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/b53ca938ce675184be3166cdb0912c374860e864/Screenshot%202025-02-14%20211644.png)
+![img alt](https://github.com/ArpiCodes/Customer-Churn-Analysis-Dashboard/blob/ddae8573698c4a831ad62e1d4fa2c530720b0327/Predictive%20Insights.png)
 **Advanced ML-Powered Visuals:**
 - **Churn Probability Histogram**:
   - Average probability: **0.36**.
